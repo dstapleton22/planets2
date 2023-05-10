@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+This PLANET is Curious, but I have to Persevere cause this may be our first Opportunity
+=======
 This planet is Curious, but we have to Persevere because this may be our last Opportunity
 The Mars movement of Holst's Planets symphony is considered to be one of the more dramatic parts of that work.
+>>>>>>> bdef723ab70a9d27b38a030d35fac870191cb432
